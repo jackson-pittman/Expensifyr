@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.env
+*.log
+.vscode
+.idea
+service-account-key.json
+coverage
+build
+dist
